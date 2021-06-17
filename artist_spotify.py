@@ -3,8 +3,8 @@ import pandas as pd
 import random
 from datetime import datetime
 
-CLIENT_ID = '91efab88fc7f44aaabbd06b31fefdd60'
-CLIENT_SECRET = 'f4f59ea77ddc4ba496098f182bbc3c57'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 AUTH_URL = 'https://accounts.spotify.com/api/token'
 
